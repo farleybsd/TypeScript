@@ -1,0 +1,32 @@
+Instalando o Type Script 
+npm install -g typescript 
+
+Verificando a vesao  do typescript
+tsc -v
+
+Inciando o arquivo de configuracao do typescript
+tsc --init
+
+Build do Ts para Js
+PS C:\MyGit\TypeScript\introcucao> tsc .\basico.ts
+
+Ececultando depois do Build
+PS C:\MyGit\TypeScript\introcucao> node.exe .\basico.js
+
+Instalando o Ts-node para usar a extensao code run para execultar o arquivo
+npm install -g ts-node
+
+Incializando node na raiz do projeto
+npm init -y
+
+Instalando o servidor Local Live-Server
+npm install -s live-server
+ajustar package.json
+"scripts": {
+    "start": "live-server"
+  },
+
+  execultar npm start
+
+  Ficar ouvindo alteracao no TS
+  tsc -w
