@@ -1,3 +1,3 @@
 "use strict";
-const a = 'Teste TS- (Web) - v2!';
-console.log(a);
+let aa = 'Teste TS- (Web) - v2!';
+console.log(aa);

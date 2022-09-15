@@ -1,2 +1,2 @@
-const a : string = 'Teste TS- (Web) - v2!';
-console.log(a)
+let aa : string = 'Teste TS- (Web) - v2!';
+console.log(aa)
