@@ -30,3 +30,7 @@ ajustar package.json
 
   Ficar ouvindo alteracao no TS
   tsc -w
+
+  reconhecendo os modulos no bwroser (System Js)
+  npm i -s systemjs@0.21.6
+  importar o caminho relativo(pelo VsCode) no index.html
