@@ -151,3 +151,5 @@ function paramInfo(alvo:any,nomeMetodo:string,indiceParam:number){
     console.log(`Metodo:${nomeMetodo}`)
     console.log(`Indice Param:${indiceParam}`)
 }
+
+https://www.typescriptlang.org/docs/handbook/decorators.html
