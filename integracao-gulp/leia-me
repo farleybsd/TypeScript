@@ -1,0 +1,8 @@
+tsc --init
+npm init -y
+
+instacao Gulp
+npm i --save-dev gulp  typescript browserfy tsify vinyl-source-stream del
+
+execultando gulp
+npm run build
